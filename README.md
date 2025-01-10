@@ -49,16 +49,39 @@ Include some interesting formula,
  =IF(L2>54,"Old",(IF(L2>=31,"Middle Age",IF(L2<31,"Adolescent","Invalid"))))
  
  ## Data Visualization
- ![](Screenshot 2025-01-09 140649.png)
+ ![](Screenshot2025-01-09140649.png)
  
+## Conclusion and Recommendations
+### Conclusion
+- Sales vary significantly by region and season, with certain periods showing higher demand.
+- Customers' commuting distance plays a significant role in their decision to purchase a bike.
+- Higher education levels correlate with an increased likelihood of purchasing a bike.
+- Different regions exhibit unique purchasing patterns influenced by local factors.
+- Marital status impacts bike purchasing decisions, with trends varying among different groups.
+- Promotional activities and discounts have a notable impact on bike sales, with specific promotions driving higher purchases.
 
-Results/Finding
+### Recommendations
+- Develop marketing campaigns focused on the primary customer demographics identified, such as specific age groups and income brackets.
+- Adjust inventory levels to align with peak sales periods and regional demand to ensure sufficient stock during high-demand times.
+- Focus on stocking bike models that are popular among customers with higher education levels and longer commuting distances.
+- Implement targeted promotions during peak sales periods and for specific customer segments to maximize effectiveness.
+- Improve in-store and online customer experiences by addressing feedback and streamlining the purchasing process.
+- Offer personalized recommendations and support to enhance customer satisfaction and loyalty.
+- Develop region-specific marketing strategies to address unique local factors and purchasing patterns.
+- Collaborate with local organizations and events to increase brand visibility and engagement.
+
+
+
+## Results/Finding
 The Analysis results are summarized as follows;
 
-Married people are making alot more on average.
-People with Bachalor degrees on average are making close to 60,000.
-For the gender, Male tend to buy more bikes than Female.
+- Married people are making alot more on average.
+- People with Bachalor degrees on average are making close to 60,000.
+- For the gender, Male tend to buy more bikes than Female.
 
+
+## Reference
+[Alextheanalyst](https://github.com/AlexTheAnalyst/Excel-Tutorial/blob/main/Excel%20Project%20Dataset.xlsx)
 
 
 
